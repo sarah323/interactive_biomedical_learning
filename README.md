@@ -2,7 +2,7 @@
 
 Interactive Biomedical Learning is an open educational initiative focused on developing interactive web-based tools that make complex concepts in biochemistry, molecular biology, and laboratory medicine more approachable through visualization and active exploration.
 
-This repository hosts standalone educational modules developed using HTML, CSS, and JavaScript. Each module is designed to complement—not replace—traditional lectures, textbooks, and practical teaching.
+This repository hosts standalone educational modules developed using HTML, CSS, and JavaScript. Each module is designed to complement ,not replace, traditional lectures, textbooks, and practical teaching.
 
 ---
 
