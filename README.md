@@ -52,7 +52,7 @@ After completing this activity, learners should be able to:
 
 # Live Demo
 
-Coming soon via GitHub Pages.
+https://sarah323.github.io/interactive_insulin_signaling
 
 ---
 
@@ -82,13 +82,11 @@ If you use this simulator in teaching, presentations, publications, or derivativ
 
 **APA**
 
-> Salah, S. (2026). *Insulin Signaling Explorer* (Version 1.0) [Interactive educational software]. Interactive Biomedical Learning. GitHub. DOI: Pending.
+> Salah, S. (2026). *Insulin Signaling Explorer* (Version 1.0) [Interactive educational software]. Interactive Biomedical Learning. GitHub. DOI: 10.5281/zenodo.21358575.
 
 **Vancouver**
 
 > Salah S. Insulin Signaling Explorer. Version 1.0. Interactive Biomedical Learning; 2026. Available from: GitHub. DOI: Pending.
-
-A Zenodo DOI will be added upon the first public release.
 
 ---
 
