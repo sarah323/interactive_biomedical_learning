@@ -1,4 +1,4 @@
-# Interactive Biomedical Learning
+  # Interactive Insulin Signaling
 
 Interactive Biomedical Learning is an open educational initiative focused on developing interactive web-based tools that make complex concepts in biochemistry, molecular biology, and laboratory medicine more approachable through visualization and active exploration.
 
